@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raswsdf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raswsdf&layout=compact&cache_seconds=86400)
