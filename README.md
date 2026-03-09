@@ -24,8 +24,6 @@ Interested in backend systems, databases, and networking.
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?logo=android&logoColor=white)
-
 
 ## Languages
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raswsdf&theme=github_dark)
