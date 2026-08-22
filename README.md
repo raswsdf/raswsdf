@@ -26,4 +26,4 @@ Interested in backend systems, databases, and networking.
 ![Firebase](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=white)
 
 ## Languages
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=raswsdf&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raswsdf&theme=github_dark)
